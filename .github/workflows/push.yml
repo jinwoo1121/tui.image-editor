@@ -1,7 +1,5 @@
 name: PUSH ex test
-
 on: [push]
-
 jobs:
   build:
 
